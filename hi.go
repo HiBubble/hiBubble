@@ -1,0 +1,5 @@
+package hiBubble
+
+func hi() {
+
+}
