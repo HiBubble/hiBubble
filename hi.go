@@ -1,5 +1,7 @@
 package hiBubble
 
-func hi() {
+import "fmt"
 
+func hi() {
+	fmt.Println("hello world")
 }
